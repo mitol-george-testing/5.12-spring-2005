@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "64cde08e-416f-44e7-f350-b9a64e1b2d50",
+      "2414b3c0-6f31-096e-f2b1-248ea50a8348"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Organic Chemistry I",
+  "course_description": "This subject deals primarily with the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.12",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "title": "Course Metadata"
+}
